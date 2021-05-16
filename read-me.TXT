@@ -1,0 +1,8 @@
+#Settings: 30 crawls at intervals, automatic cycle acquisition, multi-page acquisition
+#Note: It may cause data to crawl repeatedly, and heavy weights can be done using the "de-repeat" feature that comes with the Octopus Catcher
+#Use process: in the Octopus software to choose the import task, select the ".otd" file in this project, set up the relevant keywords of the information to be collected, enter Taobao page, first click "stop collecting", in the login page scan code authorization to enter and then start collecting
+#Note: The analysis will start slowly, and Taobao may require verification after automatic page turning, which requires manual slider verification to continue the acquisition.
+#设置：间隔30爬取，自动循环采集，可采集多页
+#注意：可能会卡顿造成数据重复爬取，可使用“八爪鱼采集器”自带的“去重复”的功能去重
+#使用过程：在八爪鱼软件选择导入任务，选择此项目中的“.otd”文件，设置好要采集的信息的相关关键词，进入淘宝页面后，先点击“停止采集”，在登录页面扫码授权进入后再开始采集
+#注意：开始时分析会较慢，另外自动翻页后淘宝可能会要求进行验证，这时需要手动滑动滑块验证来继续采集。
